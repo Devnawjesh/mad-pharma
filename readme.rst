@@ -2,6 +2,10 @@
 madpharma-pharmacy management system
 ###################
 
+**I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
+
+[Fiverr Profile](https://www.fiverr.com/nawjesh?up_rollout=true)
+
 *******************
 summary
 *******************
@@ -62,3 +66,8 @@ password: abc123
 **manager** :
 username: nawjeshbd@gmail.com
 password: abc123
+
+
+**I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
+
+[Fiverr Profile](https://www.fiverr.com/nawjesh?up_rollout=true)
