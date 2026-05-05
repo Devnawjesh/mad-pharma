@@ -1,6 +1,23 @@
+
+
 ###################
 madpharma-pharmacy management system
 ###################
+
+# Mad Pharma - Pharmacy Management System
+
+> 🚀 **Laravel Rebuild Announcement**
+>
+> Mad Pharma was originally built with **PHP and CodeIgniter** as a pharmacy management and POS solution.
+>
+> I am now preparing to rebuild the project using **Laravel** with a modern architecture, improved security, better maintainability, and an updated user experience.
+>
+> The current version will remain available as a legacy/reference version, while the Laravel version will be developed step by step.
+>
+> Follow this repository for upcoming updates, release notes, and development progress.
+
+## Summary
+...
 
 **I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
 
