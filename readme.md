@@ -4,7 +4,7 @@
 madpharma-pharmacy management system
 ###################
 
-# Mad Pharma - Pharmacy Management System
+Mad Pharma - Pharmacy Management System
 
 > 🚀 **Laravel Rebuild Announcement**
 >
@@ -15,13 +15,6 @@ madpharma-pharmacy management system
 > The current version will remain available as a legacy/reference version, while the Laravel version will be developed step by step.
 >
 > Follow this repository for upcoming updates, release notes, and development progress.
-
-## Summary
-...
-
-**I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
-
-Visit Urls : http://www.fiverr.com/s2/0e44853c56
 
 *******************
 summary
